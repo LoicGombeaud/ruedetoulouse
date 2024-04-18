@@ -16,7 +16,7 @@ baseURL = "/"
 publishDir = "public"
 
 # Remote
-baseURL = "https://cyclistebx.github.io/ruedetoulouse/"
+baseURL = "https://cyclistebx.github.io/ruedetoulouse/ruedetoulouse"
 #publishDir = "//centos/sites/hugodev/hugostory/"
 
 
