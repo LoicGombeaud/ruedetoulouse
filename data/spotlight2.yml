@@ -1,0 +1,8 @@
+####################### Spotlight #########################
+style: "style1 orient-left content-align-left image-position-center onscroll-image-fade-in"
+title: "Une rue plus calme"
+content: |
+button:
+  label: "En savoir plus"
+  link: "#"
+image: "images/spotlight02.jpg"
