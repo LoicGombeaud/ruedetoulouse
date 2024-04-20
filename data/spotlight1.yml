@@ -1,5 +1,5 @@
 ####################### Spotlight #########################
-style: "style2 orient-right content-align-left image-position-center onscroll-image-fade-in"
+style: "style1 orient-right content-align-left image-position-center"
 id: "first"
 title: "Des trottoirs pour tous !"
 # subtitle: "Une rue plus sure"
@@ -9,4 +9,4 @@ content: |
 
 #   label: "En savoir plus"
 #   link: "#spotlight1_more"
-image: "images/spotlight01.jpg"
+image: "images/spotlight01.png"

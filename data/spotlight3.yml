@@ -1,5 +1,5 @@
 ####################### Spotlight #########################
-style: "style2 orient-right content-align-left image-position-center onscroll-image-fade-in"
+style: "style1 orient-right content-align-left image-position-center"
 id: "first"
 title: "Une liane 5 efficace"
 content: |
@@ -8,4 +8,4 @@ content: |
 # button:
 #   label: "En savoir plus"
 #   link: "#"
-image: "images/spotlight03.jpg"
+image: "images/spotlight03.png"

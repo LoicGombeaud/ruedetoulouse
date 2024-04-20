@@ -1,5 +1,5 @@
 ####################### Spotlight #########################
-style: "style2 orient-left content-align-left image-position-center onscroll-image-fade-in"
+style: "style1 orient-left content-align-left image-position-center"
 id: "first"
 title: "Une rue végétalisée"
 content: |
@@ -8,4 +8,4 @@ content: |
 # button:
 #   label: "En savoir plus"
 #   link: "#"
-image: "images/spotlight03.jpg"
+image: "images/spotlight04.png"
