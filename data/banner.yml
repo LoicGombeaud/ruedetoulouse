@@ -1,11 +1,11 @@
 ####################### Banner #########################
 style: "style3 orient-right content-align-left image-position-right fullscreen onload-image-fade-in onload-content-fade-right"
-title: "Rue de Toulouse"
-subtitle: |
-  Apaiser la ville pour mieux la vivre
+title: "Contreprojet route de Toulouse"
+# subtitle: |
+#   Oui à la mise à sens unique de la route de Toulouse !
 content: |
 
 button:
   label: "Decouvrez le projet"
-  link: "#first"
+  link: "#gallery"
 image: "images/banner.jpg"

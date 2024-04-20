@@ -1,10 +1,8 @@
 ####################### Spotlight #########################
-style: "style1 orient-left content-align-left image-position-center onscroll-image-fade-in"
-title: "Une rue plus calme"
+style: "style2 orient-left content-align-left image-position-center onscroll-image-fade-in"
+title: "Une piste bidirectionnelle sécurisée"
 content: |
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+  La route de Toulouse se situe sur l’itinéraire du ReVE 7, une des lignes du réseau express vélo de la métropole. Notre contreprojet porte la volonté de créer un itinéraire cyclable continu, lisible, sécurisé et confortable pour les cyclistes. Arrêtons de mélanger les cyclistes aux piétons ou aux bus, cela n’engendre que des conflits et des tensions entre usagers. Cette piste de 3,5 à 4m de large offrira à tous une alternative sécurisée, qu’il agisse de la petite fille allant à l’école ou de la personne âgée moins à l’aise à vélo.
 
 # button:
 #   label: "En savoir plus"

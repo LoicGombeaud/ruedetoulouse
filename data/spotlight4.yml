@@ -1,0 +1,11 @@
+####################### Spotlight #########################
+style: "style2 orient-left content-align-left image-position-center onscroll-image-fade-in"
+id: "first"
+title: "Une rue végétalisée"
+content: |
+  La route de Toulouse porte bien son nom c’est une route, une marée de bitume noir, un ilot de chaleur considérable, il apparait indispensable de planter des arbres sur cet axe pour garantir son avenir. Nous voulons une avenue plantée qui soit à la fois agréable et belle en été. C’est l’occasion de créer un grand corridor vert de Villenave d’Ornon jusqu’à Bordeaux centre.
+
+# button:
+#   label: "En savoir plus"
+#   link: "#"
+image: "images/spotlight03.jpg"

@@ -1,13 +1,11 @@
 ####################### Spotlight #########################
-style: "style1 orient-right content-align-left image-position-center onscroll-image-fade-in"
+style: "style2 orient-right content-align-left image-position-center onscroll-image-fade-in"
 id: "first"
-title: "Une rue plus sure"
-subtitle: "Une rue plus sure"
+title: "Des trottoirs pour tous !"
+# subtitle: "Une rue plus sure"
 
 content: |
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+  Souvent négligés, les piétons devraient être la priorité de nos politiques urbaines. Nous sommes TOUS piétons. Notre contreprojet porte l’ambition de maintenir ou élargir les trottoirs tout au long de la route de Toulouse. Nous voulons une métropole accessible à tous y compris les plus fragiles, comme nos ainés, les plus jeunes ou bien les personnes à mobilité réduite. Des trottoirs larges c’est considérer la marche comme un vrai moyen de déplacement, c’est encourager le développement du commerce de proximité et ainsi retrouver une vie dans nos quartier.
 
 #   label: "En savoir plus"
 #   link: "#spotlight1_more"

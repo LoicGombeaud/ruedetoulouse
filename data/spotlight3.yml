@@ -1,11 +1,9 @@
 ####################### Spotlight #########################
-style: "style1 orient-right content-align-left image-position-center onscroll-image-fade-in"
+style: "style2 orient-right content-align-left image-position-center onscroll-image-fade-in"
 id: "first"
-title: "Une rue plus verte"
+title: "Une liane 5 efficace"
 content: |
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+  La mise en sens unique de la route de Toulouse, c’est l’unique solution pour créer un couloir de bus continue en site propre. C’est ainsi la garanti d’un service fiable, sans retard, et d’un gain de temps considérable, c’est la fin de longue attente dans les embouteillages à l’approche des boulevards. La création d’une piste cyclable permettra de libérer le couloir de bus des cyclistes et donc d’optimiser sa vitesse commerciale.
 
 # button:
 #   label: "En savoir plus"
