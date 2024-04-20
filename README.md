@@ -6,7 +6,7 @@ C’est un projet [Hugo](https://gohugo.io) utilisant le thème [Hugo Story](htt
 
 Vous aurez besoin d’une installation de [Hugo](https://gohugo.io)
 
-Après avoir cloner le repository il faut telecharger le thème :
+Après avoir cloné le repository il faut télecharger le thème :
 
 ```bash
 git submodule update --init --remote --recursive
