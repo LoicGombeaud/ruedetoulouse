@@ -1,0 +1,37 @@
+####################### Spotlight #########################
+style: "style1 orient-right content-align-left image-position-center"
+id: "first"
+title: "Oui à une vraie étude de la mise à sens unique"
+content: |
+  <h3>Une étude initiale trop limitée</h3>
+  <p>
+  Si la mise à sens unique de la route a été étudiée lors de la concertation, son bilan était limité. 
+  En effet, le document versé à la concertation n’a étudié qu’une mise à sens unique sans étudier de changements sur les rues adjacentes. En conséquence, la simulation a montré l’explosion du trafic dans certaines petites rues. C’est évidemment un bilan qui n’est pas acceptable.
+  </p>
+  <h3>Cette étude n'est plus d'actualité</h3>
+  <p>
+  Depuis cette étude (2021), un plan de circulation protecteur de la population voisine a été mis en place à Bègles. Il n’est aujourd’hui quasi plus possible de quitter la route de Toulouse pour traverser Bègles. Seuls les riverains empruntent désormais ces rues. Ainsi, les inquiétudes soulevées par l’étude de la mise à sens unique ne sont déjà plus d’actualité à l’est. Il est aussi possible de traiter les alertes remontées par l’étude du côté de Talence. <strong>Rien n’est insurmontable !</strong>
+  <br>
+  En effet, si on dézoome à l’échelle de 10 ans, les compteurs de voitures montrent une forte diminution du flux automobile (-20 à -35% pour les capteurs les plus proches des Boulevards). En complément, la diminution du flux s’est accélérée en 2020 (sans doute avec la covid mais aussi et surtout avec la mise à sens unique du cours de la Somme dans le prolongement de la route). Aucun retour en arrière n’est intervenu depuis.
+  </p>
+
+  <h3>De nombreux changements vont soulager le trafic</h3>
+  <p>    
+  À l’avenir, la circulation automobile sera davantage complexifiée dans le cœur de Bordeaux, avec la <strong>piétonnisation de St Michel et de Ste-Croix</strong>. 
+  La <strong>rue Amédée St Germain</strong> a aussi été mise à <strong>sens unique</strong> récemment. 
+  Impossible de remonter depuis la route vers la gare en prenant cet axe. 
+  En complément, le <strong>cours de la Marne</strong> a été mis à <strong>sens unique</strong> (travaux puis expérimentation en cours). 
+  La transformation du <strong>pont St Jean</strong> en un <strong>pont urbain</strong> et le prolongement des quais piétons vers le nouveau pont Simone Veil auront des conséquences positives sur la fréquentation de la route de Toulouse. 
+  Surtout, l’arrivée de ce pont en connexion directe avec les boulevards et les quais <strong>provoquera une réorganisation complète des flux automobiles</strong>.<br>
+  <strong>Plusieurs nouvelles diminutions importantes du flux automobile sont donc anticipables et à accompagner.</strong>
+  <strong>Le caractère routier voire autoroutier ne sera plus et n’est déjà plus nécessaire !</strong><br>
+  </p>
+  
+  <p>
+  <strong>Nous demandons une étude approfondie et à plus grande échelle afin de traiter chacune des conséquences de la nécessaire mise à sens unique. Ce travail devra étudier le fonctionnement en trinôme des cours de la Libération/Gambetta, Victor Hugo et de la route de Toulouse et prendre en compte l’importante réorganisation des flux dans le sud de la métropole.</strong>
+  </p>
+
+# button:
+#   label: "En savoir plus"
+#   link: "#"
+image: "images/spotlight05.png"
