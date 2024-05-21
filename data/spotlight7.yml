@@ -1,0 +1,14 @@
+####################### Spotlight #########################
+style: "style1 orient-left content-align-left image-position-center"
+id: "eco"
+title: "Une rue plus attractive pour les commerçants !"
+# subtitle: "Une rue plus sure"
+
+content: |
+  Une route désagréable voire dangereuse pour les piétons, piétonnes et cyclistes ne peut être une destination pour les habitant·es. 
+  Ainsi, ni la route actuelle ni le projet de la métropole n'est ou ne rendra la zone attractive (pour les commerçants). 
+  Le projet que nous proposons - plus vert et plus agréable pour toutes et tous - renforcera l'attractivité économique de l'axe. 
+
+#   label: "En savoir plus"
+#   link: "#spotlight1_more"
+image: "images/boutique.jpg"
