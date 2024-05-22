@@ -4,7 +4,7 @@ id: "vraie-etude"
 title: "Oui à une vraie étude de la mise à sens unique partielle"
 content: |
   <p>
-  Si la mise à sens unique partielle de la route a été étudiée lors de la concertation, son bilan était limité. 
+  Si la mise à sens unique partielle de la route a été étudiée lors de la concertation, son analyse était trop limitée. 
   En effet, le document versé à la concertation n’a étudié qu’une mise à sens unique sans étudier de changements sur les rues adjacentes. En conséquence, la simulation a montré l’explosion du trafic dans certaines petites rues. C’est évidemment un bilan qui n’est pas acceptable.
   </p>
   <h3>Cette étude n'est plus d'actualité</h3>
@@ -18,11 +18,11 @@ content: |
   <h3>De nombreux changements vont soulager le trafic</h3>
   <p>    
   À l’avenir, la circulation automobile sera davantage complexifiée dans le cœur de Bordeaux, avec la <a target="_blank" href="https://x.com/VeloCiteBdx/status/1781790543451734500"><strong>probable piétonnisation de St Michel et de Ste-Croix</strong></a>. 
-  La <strong>rue Amédée St Germain</strong> a aussi été mise à <strong>sens unique</strong> récemment. 
+  La <strong>rue Amédée St Germain</strong> a aussi été mise à sens unique récemment. 
   Impossible de remonter depuis la route vers la gare en prenant cet axe. 
-  En complément, le <strong>cours de la Marne</strong> a été mis à <strong>sens unique</strong> (travaux puis expérimentation en cours). 
-  La transformation du <strong>pont St Jean</strong> en un <strong>pont urbain</strong> et le prolongement des quais piétons vers le nouveau pont Simone Veil auront des conséquences positives sur la fréquentation de la route de Toulouse. 
-  Surtout, l’arrivée de ce pont en connexion directe avec les boulevards et les quais <strong>provoquera une réorganisation complète des flux automobiles</strong>.<br>
+  En complément, le <strong>cours de la Marne</strong> a lui aussi été mis à sens unique (travaux puis expérimentation en cours). 
+  La transformation du <strong>pont St Jean</strong> en un pont urbain et le <strong>prolongement des quais piétons</strong> vers le nouveau <strong>pont Simone Veil</strong> auront des conséquences positives sur la fréquentation de la route de Toulouse. 
+  Surtout, l’arrivée de ce pont en connexion directe avec les boulevards et les quais provoquera une réorganisation complète des flux automobiles.<br>
   <strong>Plusieurs nouvelles diminutions importantes du flux automobile sont donc anticipables et à accompagner.</strong>
   <strong>Le caractère routier voire autoroutier ne sera plus et n’est déjà plus nécessaire !</strong><br>
   </p>
@@ -31,7 +31,15 @@ content: |
   <strong>Nous demandons une étude approfondie et à plus grande échelle afin de traiter chacune des conséquences de la nécessaire mise à sens unique partielle. Ce travail devra étudier le fonctionnement en trinôme des cours de la Libération/Gambetta, Victor Hugo et de la route de Toulouse et prendre en compte l’importante réorganisation à venir des flux dans le sud de la métropole.</strong>
   </p>
 
-# button:
-#   label: "En savoir plus"
-#   link: "#"
-image: "images/spotlight05.png"
+pictures:
+  - title: "Plan de circulation de Bègles"
+    content: ""
+    image: "https://pbs.twimg.com/media/GKPuF79WEAAtZQy?format=jpg&name=large"
+    thumb: "https://pbs.twimg.com/media/GKPuF79WEAAtZQy?format=jpg&name=small"
+    button: "Details"
+
+  - title: "Évolution trafic Route de Toulouse (sens entrant)"
+    content: ""
+    image: "https://pbs.twimg.com/media/GKrTyqtW8AArOH7?format=png&name=large"
+    thumb: "https://pbs.twimg.com/media/GKrTyqtW8AArOH7?format=png&name=small"
+    button: "Details"
