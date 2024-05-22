@@ -3,7 +3,7 @@ style: "style1 orient-right content-align-left image-position-center"
 id: "first"
 title: "Une liane 5 efficace"
 content: |
-  La mise en sens unique de la route de Toulouse, c’est l’unique solution pour créer un couloir de bus continue en site propre. C’est ainsi la garanti d’un service fiable, sans retard, et d’un gain de temps considérable, c’est la fin de longue attente dans les embouteillages à l’approche des boulevards. La création d’une piste cyclable permettra de libérer le couloir de bus des cyclistes et donc d’optimiser sa vitesse commerciale.
+  La mise en sens unique partielle de la route de Toulouse, c’est l’unique solution pour créer un couloir de bus continue en site propre. C’est ainsi la garanti d’un service fiable, sans retard, et d’un gain de temps considérable, c’est la fin de longue attente dans les embouteillages à l’approche des boulevards. La création d’une piste cyclable permettra de libérer le couloir de bus des cyclistes et donc d’optimiser sa vitesse commerciale.
 
 # button:
 #   label: "En savoir plus"
