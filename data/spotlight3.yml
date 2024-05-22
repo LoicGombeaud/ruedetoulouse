@@ -3,7 +3,7 @@ style: "style1 orient-right content-align-left image-position-center"
 id: "first"
 title: "Une liane 5 efficace"
 content: |
-  Des couloirs de bus en site propre <strong>sans les cyclistes</strong>, c'est la meilleure solution pour augmenter la vitesse commerciale des bus. C’est ainsi la garanti d’un service fiable, sans retard, et d’un gain de temps considérable, c’est la fin de longue attente dans les embouteillages à l’approche des boulevards. La création d’une piste cyclable permettra de libérer le couloir de bus des cyclistes et donc d’optimiser sa vitesse commerciale.
+  Des couloirs de bus en site propre <strong>sans les cyclistes</strong>, c'est la meilleure solution pour augmenter la vitesse commerciale des bus. C’est ainsi la garantie d’un service fiable, sans retard, et d’un gain de temps considérable, c’est la fin des longues attentes dans les embouteillages à l’approche des boulevards. La création d’une piste cyclable permettra de libérer le couloir de bus des cyclistes et donc d’optimiser sa vitesse commerciale.
 
 # button:
 #   label: "En savoir plus"
