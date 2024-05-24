@@ -4,7 +4,7 @@ metadata:
   annotations:
     cert-manager.io/cluster-issuer: letsencrypt-prod
     nginx.ingress.kubernetes.io/ssl-redirect: "true"
-    nginx.ingress.kubernetes.io/temporal-redirect: https://coursdetoulouse.fr
+    nginx.ingress.kubernetes.io/permanent-redirect: https://coursdetoulouse.fr
   name: redirect-to-coursdetoulouse.fr
 spec:
   ingressClassName: nginx
