@@ -1,4 +1,4 @@
-Site web vitrine pour présenter le projet de la rue de Toulouse
+Site web vitrine pour présenter le projet de le cours de Toulouse
 
 ## Lancer le projet
 
