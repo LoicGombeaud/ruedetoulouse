@@ -1,0 +1,22 @@
+apiVersion: networking.k8s.io/v1
+kind: Ingress
+metadata:
+  annotations:
+    cert-manager.io/cluster-issuer: letsencrypt-prod
+    nginx.ingress.kubernetes.io/ssl-redirect: "true"
+    nginx.ingress.kubernetes.io/temporal-redirect: https://coursdetoulouse.fr
+  name: redirect-to-coursdetoulouse.fr
+spec:
+  ingressClassName: nginx
+  rules:
+  - host: routedetoulouse.fr
+  - host: www.routedetoulouse.fr
+  - host: ruedetoulouse.fr
+  - host: www.ruedetoulouse.fr
+  tls:
+  - hosts:
+    - routedetoulouse.fr
+    - www.routedetoulouse.fr
+    - ruedetoulouse.fr
+    - www.ruedetoulouse.fr
+    secretName: redirect-to-coursdetoulouse.fr
