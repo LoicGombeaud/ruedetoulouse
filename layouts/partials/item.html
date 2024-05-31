@@ -1,5 +1,11 @@
 <section>
-    <span class="icon {{ .style }}"></span>
+<!--    <span class="icon {{ .style }}"></span>-->
+    <div style="width: 6.25em; margin: 0 auto;">
+        <img src="{{ .image }}" alt="" style="border-radius: 100%; width: 100%;">
+    </div>
     <h3>{{ .name }}</h3>
-    <p>{{ .content }}</p>
+    <p>
+        {{ .content }}
+        {{ with .contact }}<a href="mailto:collectifcoursdetoulouse@gmail.com">collectifcoursdetoulouse@gmail.com</a>{{ end }}
+    </p>
 </section>
