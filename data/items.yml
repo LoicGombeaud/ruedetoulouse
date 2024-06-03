@@ -6,11 +6,15 @@ items:
 
   - name : "Cycles et Manivelles"
     content : "Cycles et Manivelles est une association de promotion de la mobilité soutenable en général et de la pratique du vélo en particulier."
-    image: "https://scontent.fbod1-1.fna.fbcdn.net/v/t39.30808-1/308014886_476893314480091_7741962902629792916_n.png?stp=dst-png_p200x200&_nc_cat=107&ccb=1-7&_nc_sid=5f2048&_nc_ohc=Asm3fsS_YMYQ7kNvgHKDHnq&_nc_ht=scontent.fbod1-1.fna&oh=00_AYDE-Lgb9tFoQipiEdFZNtheARHx-sKPOAQLYSvv-sZAxA&oe=665C2E74"
+    image: "images/c&m.png"
+
+  - name : "Droits du Piéton 33"
+    content : "Tous les derniers vendredis du mois, déambulation à vélo libre et auto-gérée dans la ville"
+    image: "images/DDP33 Logo 2024.png"
 
   - name : "Masse Critique Bordeaux"
     content : "Tous les derniers vendredis du mois, déambulation à vélo libre et auto-gérée dans la ville"
-    image: "https://scontent.fbod1-1.fna.fbcdn.net/v/t39.30808-1/419345997_122109837920180983_5346869217107057765_n.jpg?stp=dst-jpg_p200x200&_nc_cat=103&ccb=1-7&_nc_sid=5f2048&_nc_ohc=JowYrtvA_fQQ7kNvgGjLPtp&_nc_ht=scontent.fbod1-1.fna&oh=00_AYC-YiuaA7a6XFKb_-0KKhx2yOmr4Ona9pgM4VdQZROvFQ&oe=665FA40E"
+    image: "images/masse-critique.jpg"
 
   - name : "Terre Sud - Bel Air"
     content : "Promouvoir le vivre ensemble des habitants.\nDéfendre la qualité de vie dans la quartier.\nPréserver l'environnement.\nAffirmer et développer l'identité d'éco-quartier."
@@ -22,4 +26,4 @@ items:
 
   - name : "Et vous ?"
     content : "Rejoingez le collectif pour défendre la vie de quartier, les habitant·es, les commerçant·es, piéton·nes, cyclistes et usager·es des transports en commun."
-    contact:  <a href=\"mailto:collectif@gmail.com\">collectif@gmail.com</>
+    contact:  "<a href=\"mailto:collectif@gmail.com\">collectif@gmail.com</>"
