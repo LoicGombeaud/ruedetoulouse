@@ -3,13 +3,14 @@ style: "style1 medium onscroll-fade-in"
 items:
   - name : "Cauderes"
     content : "Comité d’Accompagnement de l’Urbanisme de Défense de l’Environnement et de REspect de la Sécurité ainsi que association de quartier de la barrière de Toulouse"
+    image: "images/logo_cauderes.jpg"
 
   - name : "Cycles et Manivelles"
     content : "Cycles et Manivelles est une association de promotion de la mobilité soutenable en général et de la pratique du vélo en particulier."
     image: "images/c&m.png"
 
   - name : "Droits du Piéton 33"
-    content : "Tous les derniers vendredis du mois, déambulation à vélo libre et auto-gérée dans la ville"
+    content : "Préserver la liberté d’aller et venir à pied, partout dans la ville, dans des conditions plus sûres, plus confortables et plus agréables, avec une attention particulière pour les personnes vulnérables et les personnes à mobilité réduite"
     image: "images/DDP33 Logo 2024.png"
 
   - name : "Masse Critique Bordeaux"
