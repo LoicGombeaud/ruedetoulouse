@@ -1,6 +1,14 @@
 title : "Les associations/collectifs signataires"
 style: "style1 medium onscroll-fade-in"
 items:
+  - name : "Aux arbres citoyens"
+    content : "L'Association promeut l'écologie urbaine et l'accès à la nature pour toutes et tous quelques soient leurs origines sociales, milite auprès des politiques et soutient les collectifs qui souhaitent préserver leurs arbres en ville et leur espace naturel."
+    image: "images/auxarbrescitoyens.jpg"
+
+  - name : "ASFHA"
+    content : "L'ASFHA c'est la Nature, le coeur du Bâti. Pour une préservation des Arbres face aux chantiers et grands projets immobiliers, conserver et constituer des sanctuaires de nature, préserver les ressources eau, sol, biodiversité dans nos villes face au béton et l'urbanisation outrancière."
+    image: "https://cdn.helloasso.com/img/logos/croppedimage-e96d4d8957c44f628116b607c5cb4542.png?resize=fill:140:140"
+
   - name : "Cauderes"
     content : "Comité d’Accompagnement de l’Urbanisme de Défense de l’Environnement et de REspect de la Sécurité ainsi que association de quartier de la barrière de Toulouse"
     image: "images/logo_cauderes.jpg"
@@ -12,6 +20,10 @@ items:
   - name : "Droits du Piéton 33"
     content : "Préserver la liberté d’aller et venir à pied, partout dans la ville, dans des conditions plus sûres, plus confortables et plus agréables, avec une attention particulière pour les personnes vulnérables et les personnes à mobilité réduite"
     image: "images/DDP33 Logo 2024.png"
+
+  - name : "Etu'Récup"
+    content : "Association dont les missions sont la réduction des déchets et la lutte contre la précarité, tout en proposant des modes de consommation durables et un accompagnement vers une mobilité douce."
+    image: "images/eturecup.png"
 
   - name : "Masse Critique Bordeaux"
     content : "Tous les derniers vendredis du mois, déambulation à vélo libre et auto-gérée dans la ville"
