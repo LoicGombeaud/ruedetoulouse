@@ -38,6 +38,15 @@
                     ><span class="label">LinkedIn</span></a
                 >
             </li>
+            {{end}} {{ with .Site.Params.social.facebook }}
+            <li>
+                <a
+                        target="_blank"
+                        href="{{.}}"
+                        class="icon brands style2 fa-facebook"
+                ><span class="label">Facebook</span></a
+                >
+            </li>
             {{end}} {{ with .Site.Params.social.email }}
             <li>
                 <a

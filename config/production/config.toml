@@ -38,9 +38,10 @@ favicon = true
 
 [Params.social]
 github = "https://github.com/cyclistebx/"
-# twitter = "https://twitter.com/caressofsteel_"
+twitter = "https://twitter.com/coursDeToulouse"
 email = "collectifcoursdetoulouse@gmail.com"
-# instagram = "https://instagram.com"
+instagram = "https://www.instagram.com/coursdetoulouse/"
+facebook = "https://www.facebook.com/people/Cours-de-Toulouse/61560953182297/"
 # linkedin = "https://linkedin.com"
 # telegram = "https://telegram.org"
 
